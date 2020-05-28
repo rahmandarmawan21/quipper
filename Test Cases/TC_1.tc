@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test whether the app correctly displays a video playlist.</description>
+   <name>TC_1</name>
+   <tag>#TC1</tag>
+   <comment></comment>
+   <testCaseGuid>7841cd2b-7b25-4571-be95-a201056fc7c7</testCaseGuid>
+</TestCaseEntity>

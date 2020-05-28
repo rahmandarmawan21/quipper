@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test whether the app correctly loads a webView component when it's opening the &quot;Campus
+Search&quot; menu.</description>
+   <name>TC_3</name>
+   <tag>#TC3</tag>
+   <comment></comment>
+   <testCaseGuid>c42de995-a5b1-4ddf-a2fd-8e3287d51d96</testCaseGuid>
+</TestCaseEntity>

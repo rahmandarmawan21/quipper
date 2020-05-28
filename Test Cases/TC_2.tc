@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test whether the app correctly loads a video player when the playlist item is clicked.</description>
+   <name>TC_2</name>
+   <tag>#TC2</tag>
+   <comment></comment>
+   <testCaseGuid>6d56c14a-7c14-49a7-93cc-e89740ab493c</testCaseGuid>
+</TestCaseEntity>
